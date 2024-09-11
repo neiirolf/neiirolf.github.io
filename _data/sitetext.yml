@@ -129,19 +129,19 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contactez-nous !"
+    text: "Remplissez le formulaire de contact ou appelez le +33 (0)6 00 00 00 00."
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Prénom Nom*"
+    name-validation: "Ce champs ne peut être vide."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    email-validation: "Ce champs ne peut être vide."
+    phone: "Téléphone*"
+    phone-validation: "Ce champs ne peut être vide."
     message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    message-validation: "Ce champs ne peut être vide."
+    subject: "FORMULAIRE DE CONTACT"
+    submit: "Envoyer"
 
   footer:
     legal: "Privacy Policy"
