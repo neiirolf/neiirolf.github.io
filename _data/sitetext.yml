@@ -11,23 +11,32 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bordeaux et alentours
-    text: Conciergerie Immobilière
+    title: Conciergerie Immobilière
+    text: Bordeaux et alentours
     button: En savoir plus
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    # text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Gestion des réservations"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Accueil et accompagnement des hotes"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Assistance téléphonique"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "Assistance téléphonique"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "Assistance téléphonique"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "Assistance téléphonique"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
