@@ -17,7 +17,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Nos Services"
-    text: "La Conciergerie Girondine vous propose un ensemble de service pour gérer votre bien en location courte durée."
+    text: "La Conciergerie Girondine vous propose un ensemble de services pour gérer votre bien en location courte durée."
     section: services
     list:
       - title: "Gestion des réservations"
