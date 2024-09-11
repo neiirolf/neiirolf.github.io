@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bordeaux et alentours
-    text: Conciergerie immobilière
+    # title: 
+    text: "Conciergerie immobilière <br> Bordeaux et alentours
     button: En savoir plus
     buttonlink: "#services"
 
