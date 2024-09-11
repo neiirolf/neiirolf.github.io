@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    # text: "Lorem ipsum"
+    title: "Nos Services"
+    text: "La Conciergerie Girondine vous propose un ensemble de service pour gérer votre bien en location courte durée."
     section: services
     list:
       - title: "Gestion des réservations"
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         icon: fas fa-broom
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Nos Offres"
+    text: "Nous proposons une formule tout inclus ou un ensemble de services à la carte."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   timeline:
     title: "Timeline"
