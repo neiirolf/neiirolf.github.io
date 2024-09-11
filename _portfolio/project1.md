@@ -1,11 +1,11 @@
 ---
-title: Formule Sérénité
+title: Formule Tout Inclus
 subtitle: "18% HT du total des nuitées."
 # image: assets/img/portfolio/01-full.jpg
 # alt: Shirts on a hanger
 
 caption:
-  title: Formule Sérénité
+  title: Formule Tout Inclus
   subtitle: 18% HT du total des nuitées
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
