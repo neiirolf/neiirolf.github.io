@@ -1,12 +1,12 @@
 ---
 title: Formule Sérénité
-subtitle: "Tarif : 20% TTC du total des nuitées + frais d'entretien."
+subtitle: "20% TTC du total des nuitées."
 # image: assets/img/portfolio/01-full.jpg
 # alt: Shirts on a hanger
 
 caption:
   title: Formule Sérénité
-  subtitle: Illustration
+  subtitle: 20% TTC du total des nuitées
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Nous nous occupons de tout ! De la création de l'annonce à la mise en ligne de votre bien sur les plateformes en passant par le ménage et l'accueil des voyageurs.
