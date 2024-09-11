@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     list:
       - title: "Gestion des réservations"
         desc: "Création et diffusion de votre annonce de location. Optimisation du taux d'occupation avec ajustement des tarifs de location."
-        icon: fas calendar-days #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Accueil et accompagnement des hôtes"
         desc: "Accueil physique des voyageurs. État des lieux d'entrée et de sortie. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
         icon: fas fa-handshake
