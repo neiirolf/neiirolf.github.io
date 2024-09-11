@@ -34,7 +34,7 @@ en: &DEFAULT_EN
     title: "Nos Offres"
     text: "Nous proposons une formule tout inclus ou un ensemble de services à la carte."
     section: portfolio
-    # closebutton: "Fermer"
+    closebutton: "Fermer"
 
   timeline:
     title: "Timeline"
