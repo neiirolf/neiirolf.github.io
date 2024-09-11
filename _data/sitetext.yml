@@ -22,22 +22,19 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Gestion des réservations"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Création et diffusion de votre annonce de location. Optimisation du taux d'occupation avec ajustement des tarifs de location."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Accueil et accompagnement des hotes"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Accueil des hôtes"
+        desc: "Accueil physique des voyageurs. État des lieux d'entrée et de sortie. Livret d'accueil mis à disposition."
         icon: fas fa-laptop
       - title: "Assistance téléphonique"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Réponse à toutes les questions des voyageurs en français ou en anglais."
         icon: fab fa-markdown
-      - title: "Assistance téléphonique"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Ménage et entretien de votre bien"
+        desc: "Ménage approfondi du logement après le départ. Vérification régulière du bon fonctionnement de votre bien."
         icon: fab fa-markdown
-      - title: "Assistance téléphonique"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-      - title: "Assistance téléphonique"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Blanchisserie"
+        desc: "Remplacement du linge de maison entre chaque réservation."
         icon: fab fa-markdown
 
   portfolio:
