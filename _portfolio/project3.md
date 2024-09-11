@@ -7,7 +7,7 @@ subtitle: Tarif en fonction de la prestation.
 caption:
   title: Ménage et blanchisserie
   subtitle: Tarif en fonction de la prestation
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4OTg3ODcwLWltYWdlLWt3dnVwZnM1LmpwZw.webp
 ---
 Ménage : 18€ HT/heure (nombre d'heures à déterminer selon la surface et les caractéristiques du logement). Utilisation de produits de ménage éco-responsables pour un respect de l'environnement.
 
