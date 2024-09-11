@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: Ménage et blanchisserie
+subtitle: Tarif en fonction de la prestation.
+# image: assets/img/portfolio/03-full.jpg
+# alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Ménage et blanchisserie
+  subtitle: Tarif en fonction de la prestation
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Ménage : 18€ HT/heure (nombre d'heures à déterminer selon la surface et les caractéristiques du logement). Utilisation de produits de ménage éco-responsables pour un respect de l'environnement.
+Blanchisserie : 16€ HT par chambre et comprenant : une parure de lit double ou simple, deux grandes serviettes, deux petites serviettes et un tapis de bain.
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+Si besoin d'un entretien jardin, tarif sur devis.
 

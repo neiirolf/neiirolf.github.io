@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Accueil - État des lieux
+subtitle: 36€ HT par prestations.
+# image: assets/img/portfolio/02-full.jpg
+# alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Accueil - État des lieux
+  subtitle: 36€ HT par prestations
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Accueil des voyageurs, remise des clés, présentation de l'appartement et de ses spécificités. Présence à la sortie des voyageurs, inventaire, récupération des clés et point avec le propriétaire au départ des locataires.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- ✔️ Supplément de 10€ HT les dimanches et jours fériés
+- ✔️ Supplément de 5€ HT/jour pour une assistance téléphonique aux voyageurs
 
