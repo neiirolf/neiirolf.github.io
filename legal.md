@@ -21,5 +21,5 @@ Pour les Données Personnelles collectées dans le cadre de la création du comp
 SIRET : En cours d'immatriculation
 
 Contact :
-Par téléphone : Chloë ROUDOT : 06 98 76 04 85
+Par téléphone : Chloë ROUDOT : 06 98 76 04 85  
 Par e-mail : [contact@laconciergerie-girondine.fr](mailto:contact@laconciergerie-girondine.fr)
