@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: custom_page
 title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
