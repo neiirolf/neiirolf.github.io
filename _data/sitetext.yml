@@ -17,7 +17,7 @@ en: &DEFAULT_EN
   
   about:
     title: "À Propos"
-    body: "La Conciergerie Girondine a été fondée pour transformer la gestion immobilière en une source de revenus passifs tout au long de l'année, tout en libérant les propriétaires de tout effort inutile et permettre aux voyageurs d'avoir une oreille à l'écoute et un accueil chaleureux.<br>La conciergerie Girondine s'engage à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour de vos clients afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
+    body: "La Conciergerie Girondine a été fondée pour transformer la gestion de location en courte durée en une source de revenus passifs tout au long de l'année et permettre aux propriétaires de libérer 100% de leurs temps et leur éviter tout effort inutile. Elle offre aux voyageurs un accueil physique chaleureux et personnalisé ainsi qu'une assitance téléphonique avant et durant le séjour.<br>Grâce à notre expérience dans les milieux de l'hôtellerie et de l'immobilier, nous nous engageons à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour des voyageurs afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
     # body: "La Conciergerie Girondine a été fondée pour transformer la gestion immobilière en une source de revenus passifs tout au long de l'année, tout en libérant les propriétaires de tout effort inutile et permettre aux voyageurs d'avoir une oreille à l'écoute et un accueil chaleureux.<br>Je m'engage à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour de vos clients afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
     section: about
 
@@ -27,10 +27,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Gestion des réservations"
-        desc: "Création et diffusion de votre annonce de location et mise en ligne avec des photos de qualité sur les sites Booking et AirBnB. Optimisation du taux d'occupation avec ajustement des tarifs de location et surveillance accrue de la concurrence. Gestion des plannings de réservations pour un taux d'occupation optimisé."
+        desc: "Création et diffusion de votre annonce de location et mise en ligne avec des photos de qualité sur les sites Booking et AirBnB. Optimisation du taux d'occupation avec ajustement des tarifs de location et surveillance accrue de la concurrence. Gestion des plannings de réservation pour un taux d'occupation optimisé."
         icon: fas fa-calendar-alt #find more at https://fontawesome.com/icons
       - title: "Accueil des hôtes"
-        desc: "Conseils pratiques communiqués en amont sur l'itinéraire pour rejoindre le logement. Accueil physique et personnalisé des voyageurs. État des lieux d'entrée et de sortie avec vérifications à la sortie de l'inventaire des éléments présents dans le logement. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
+        desc: "Conseils pratiques communiqués en amont sur l'itinéraire pour rejoindre le logement. Accueil physique et personnalisé des voyageurs. État des lieux d'entrée et de sortie avec vérification à la sortie de l'inventaire des éléments présents dans le logement. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
         icon: fas fa-handshake
       - title: "Ménage et blanchisserie"
         desc: "Ménage approfondi du logement après le départ. Remplacement du linge de maison. Vérification régulière des équipements et de leur bon fonctionnement. Réapprovisionnement des produits de première nécessité. Si nécéssaire petite maintenance du bien"
