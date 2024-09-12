@@ -22,4 +22,4 @@ SIRET : En cours d'immatriculation
 
 Contact :
 Par téléphone : Chloë ROUDOT : 06 98 76 04 85
-Par e-mail : [mailto:contact@laconciergerie-girondine.fr](contact@laconciergerie-girondine.fr)
+Par e-mail : [contact@laconciergerie-girondine.fr](mailto:contact@laconciergerie-girondine.fr)
