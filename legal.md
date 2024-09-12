@@ -3,35 +3,23 @@ layout: page
 title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Mentions Légales</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
 
-**PERSONAL INFORMATION WE COLLECT**
+Le site https://www.laconciergerie-girondine.fr est hébergé par la société : Github Pages
+Ce site internet est normalement accessible à tout moment aux utilisateurs. Le site web  https://laconciergerie-girondine.fr est mis à jour régulièrement par  https://laconciergerie-girondine.fr responsable. De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.
 
-{% if site.analytics.google %}
+Toutes les informations indiquées sur le site  https://laconciergerie-girondine.fr sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site  https://laconciergerie-girondine.fr ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
 
-Automatically Collected (Google Analytics):
+Utilisation du site : L’utilisation de ce service est réservé à un usage strictement personnel. Toute reproduction ou représentation, en tout ou partie, à d’autres fins sur un quelconque support est interdite. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. Les informations contenues dans ce service sont non contractuelles et sujettes à modification sans préavis. Les caractéristiques et la disponibilité des produits et services mentionnés dans ce service web sont valables pour la France métropolitaine.
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+Législation concernant la gestion des données personnelles : Le Client est informé des réglementations concernant la communication marketing, la loi du 21 Juin 2014 pour la confiance dans l’Economie Numérique, la Loi Informatique et Liberté du 06 Août 2004 ainsi que du Règlement Général sur la Protection des Données (RGPD : n° 2016-679).
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+Pour les Données Personnelles collectées dans le cadre de la création du compte personnel de l’Utilisateur et de sa navigation sur le Site, le responsable du traitement des Données Personnelles est : La conciergerie Girondine.  https://laconciergerie-girondine.fr est représenté par ROUDOT Chloë, son représentant légal.
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+SIRET : En cours d'immatriculation
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Contact :
+Par téléphone : Chloë ROUDOT : 06 98 76 04 85
+Par e-mail : [mailto:contact@laconciergerie-girondine.fr](contact@laconciergerie-girondine.fr)
