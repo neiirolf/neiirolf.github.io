@@ -7,7 +7,7 @@ title: Privacy Policy
 </div>
 
 
-Le site https://www.laconciergerie-girondine.fr est hébergé par la société : Github Pages
+Le site https://www.laconciergerie-girondine.fr est hébergé par la société : Github Pages  
 Ce site internet est normalement accessible à tout moment aux utilisateurs. Le site web  https://laconciergerie-girondine.fr est mis à jour régulièrement par  https://laconciergerie-girondine.fr responsable. De la même façon, les mentions légales peuvent être modifiées à tout moment : elles s’imposent néanmoins à l’utilisateur qui est invité à s’y référer le plus souvent possible afin d’en prendre connaissance.
 
 Toutes les informations indiquées sur le site  https://laconciergerie-girondine.fr sont données à titre indicatif, et sont susceptibles d’évoluer. Par ailleurs, les renseignements figurant sur le site  https://laconciergerie-girondine.fr ne sont pas exhaustifs. Ils sont donnés sous réserve de modifications ayant été apportées depuis leur mise en ligne.
@@ -20,6 +20,6 @@ Pour les Données Personnelles collectées dans le cadre de la création du comp
 
 SIRET : En cours d'immatriculation
 
-Contact :
+Contact :  
 Par téléphone : Chloë ROUDOT : 06 98 76 04 85  
 Par e-mail : [contact@laconciergerie-girondine.fr](mailto:contact@laconciergerie-girondine.fr)
