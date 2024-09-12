@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contactez-nous !"
-    text: "Remplissez le formulaire de contact ou appelez le +33 (0)6 00 00 00 00."
+    text: "Remplissez le formulaire de contact ou appelez le +33 (0)6 98 76 04 85."
     section: contact
     name: "Prénom Nom*"
     name-validation: "Ce champs ne peut être vide."
