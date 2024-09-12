@@ -1,6 +1,6 @@
 ---
 title: Accueil - État des lieux
-subtitle: 36€ HT par prestation.
+subtitle: 40€ TTC par prestation.
 # image: assets/img/portfolio/02-full.jpg
 # alt: Keep Exploring
 

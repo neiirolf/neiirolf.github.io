@@ -27,13 +27,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Gestion des réservations"
-        desc: "Création et diffusion de votre annonce de location et mise en ligne avec des photos de qualité sur les sites Booking et AirBnB. Optimisation du taux d'occupation avec ajustement des tarifs de location et surveillance accrue de la concurrence.Gestion des plannings de réservations pour un taux d'occupation optimisé"
+        desc: "Création et diffusion de votre annonce de location et mise en ligne avec des photos de qualité sur les sites Booking et AirBnB. Optimisation du taux d'occupation avec ajustement des tarifs de location et surveillance accrue de la concurrence. Gestion des plannings de réservations pour un taux d'occupation optimisé."
         icon: fas fa-calendar-alt #find more at https://fontawesome.com/icons
       - title: "Accueil des hôtes"
-        desc: "Conseils pratiques communiqués en amont sur l'itinéraire pour rejoindre le logement. Accueil physique et personnalisé des voyageurs. État des lieux d'entrée et de sortie avec vérications à la sortie de l'inventaire des éléments présents dans le logement. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
+        desc: "Conseils pratiques communiqués en amont sur l'itinéraire pour rejoindre le logement. Accueil physique et personnalisé des voyageurs. État des lieux d'entrée et de sortie avec vérifications à la sortie de l'inventaire des éléments présents dans le logement. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
         icon: fas fa-handshake
-      - title: "Ménage, blanchisserie et maintenance"
-        desc: "Ménage approfondi du logement après le départ. Remplacement du linge de maison. Vérification régulière des équipements et de leur bon fonctionnement.Si nécéssaire petite maintenance du bien"
+      - title: "Ménage et blanchisserie"
+        desc: "Ménage approfondi du logement après le départ. Remplacement du linge de maison. Vérification régulière des équipements et de leur bon fonctionnement. Réapprovisionnement des produits de première nécessité. Si nécéssaire petite maintenance du bien"
         icon: fas fa-broom
 
   portfolio:
