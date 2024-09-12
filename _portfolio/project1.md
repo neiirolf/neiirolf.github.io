@@ -1,15 +1,15 @@
 ---
 title: Formule Tout Inclus
-subtitle: "18% HT du total des nuitées."
+subtitle: "20% TTC du montant total des nuitées."
 # image: assets/img/portfolio/01-full.jpg
 # alt: Shirts on a hanger
 
 caption:
   title: Formule Tout Inclus
-  subtitle: 18% HT du total des nuitées
+  subtitle: 20% TTC du montant total des nuitées 
   thumbnail: assets/img/portfolio/13626409804_91d2b4ce3b_b.jpg
 ---
-Nous nous occupons de tout ! De la création de l'annonce à la mise en ligne de votre bien sur les plateformes en passant par le ménage et l'accueil des voyageurs.
+Nous nous occupons de tout ! De la création de l'annonce à la mise en ligne de votre bien sur les plateformes en passant par le ménage et l'accueil des voyageurs. 100% de votre temps est économisé et vous avez l'esprit tranquille.
 
 {:.list-inline}
 - ✔️ Rédaction et mise en ligne de l'annonce avec optimisation du prix à la nuitée

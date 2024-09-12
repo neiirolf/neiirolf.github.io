@@ -6,12 +6,12 @@ subtitle: 36€ HT par prestation.
 
 caption:
   title: Accueil - État des lieux
-  subtitle: 36€ HT par prestation
+  subtitle: 40€ TTC par prestation
   thumbnail: assets/img/portfolio/Inheriting_a_House_or_Other_Property.jpg
 ---
-Accueil des voyageurs, remise des clés, présentation de l'appartement et de ses spécificités. Présence à la sortie des voyageurs, inventaire, récupération des clés et point avec le propriétaire au départ des locataires.
+En amont, conseils pratiques communiqués pour accéder au logement. Accueil des voyageurs, remise des clés, présentation de l'appartement et de ses spécificités. Présence à la sortie des voyageurs, inventairedes équipements avant le départ, récupération des clés et point avec le propriétaire au départ des locataires.
 
 {:.list-inline}
-- *Supplément de 10€ HT les dimanches et jours fériés
-- *Supplément de 5€ HT/jour pour une assistance téléphonique aux voyageurs
+- *Supplément de 12€ TTC les dimanches et jours fériés
+- *Supplément de 5€ TTC/jour pour une assistance téléphonique aux voyageurs (horaires à determiner ensemble)
 
