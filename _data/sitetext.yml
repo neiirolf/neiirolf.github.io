@@ -10,15 +10,14 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
+  header: 
     text: "Conciergerie immobilière<br>Bordeaux et alentours"
     button: En savoir plus
     buttonlink: "#services"
   
   about:
     title: "À Propos"
-    body: "La Conciergerie Girondine a été fondée pour transformer la gestion de location en courte durée en une source de revenus passifs tout au long de l'année et permettre aux propriétaires de libérer 100% de leurs temps et leur éviter tout effort inutile. Elle offre aux voyageurs un accueil physique chaleureux et personnalisé ainsi qu'une assitance téléphonique avant et durant le séjour.<br>Grâce à notre expérience dans les milieux de l'hôtellerie et de l'immobilier, nous nous engageons à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour des voyageurs afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
-    # body: "La Conciergerie Girondine a été fondée pour transformer la gestion immobilière en une source de revenus passifs tout au long de l'année, tout en libérant les propriétaires de tout effort inutile et permettre aux voyageurs d'avoir une oreille à l'écoute et un accueil chaleureux.<br>Je m'engage à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour de vos clients afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
+    body: "La Conciergerie Girondine a été fondée pour transformer la gestion de location en courte durée en une source de revenus passifs tout au long de l'année et permettre aux propriétaires de libérer 100% de leurs temps et leur éviter tout effort inutile. Elle offre aux voyageurs un accueil physique chaleureux et personnalisé ainsi qu'une assistance téléphonique avant et durant le séjour.<br>Grâce à notre expérience dans les milieux de l'hôtellerie et de l'immobilier, nous nous engageons à vous offrir une expérience de qualité et un service de conciergerie complet qui permettra de garantir le bon déroulement du séjour des voyageurs afin de les fidéliser.<br>Au plaisir d'échanger avec vous afin de vous conseiller et de vous accompagner au mieux dans vos projets."
     section: about
 
   services:
@@ -33,7 +32,7 @@ en: &DEFAULT_EN
         desc: "Conseils pratiques communiqués en amont sur l'itinéraire pour rejoindre le logement. Accueil physique et personnalisé des voyageurs. État des lieux d'entrée et de sortie avec vérification à la sortie de l'inventaire des éléments présents dans le logement. Livret d'accueil mis à disposition. Assistance téléphonique avant et durant le séjour."
         icon: fas fa-handshake
       - title: "Ménage et blanchisserie"
-        desc: "Ménage approfondi du logement après le départ. Remplacement du linge de maison. Vérification régulière des équipements et de leur bon fonctionnement. Réapprovisionnement des produits de première nécessité. Si nécéssaire petite maintenance du bien"
+        desc: "Ménage approfondi du logement après le départ. Remplacement du linge de maison. Vérification régulière des équipements et de leur bon fonctionnement. Réapprovisionnement des produits de première nécessité. Si nécessaire petite maintenance du bien"
         icon: fas fa-broom
 
   portfolio:
@@ -42,106 +41,15 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Fermer"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   contact:
     title: "Contactez-nous !"
-    text: "Remplissez le formulaire de contact ou appelez le +33 (0)6 98 76 04 85."
+    text: 
     section: contact
-    name: "Prénom Nom*"
-    name-validation: "Ce champs ne peut être vide."
-    email: "Email*"
-    email-validation: "Ce champs ne peut être vide."
-    phone: "Téléphone*"
-    phone-validation: "Ce champs ne peut être vide."
-    message: "Message*"
-    message-validation: "Ce champs ne peut être vide."
-    subject: "FORMULAIRE DE CONTACT"
-    submit: "Envoyer"
+    list:
+      - title: "+33 (0) 6 98 76 04 85"
+        icon: fas fa-phone #find more at https://fontawesome.com/icons
+      - title: "contact@conciergerie-girondine.fr"
+        icon: fas fa-envelope
 
   footer:
     legal: "Mentions Légales"
@@ -160,154 +68,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
-
-  services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
-    list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
-
-  timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
-
-  about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contacto
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
-
-  footer:
-    legal: "Política de Privacidad"
-    social:
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
