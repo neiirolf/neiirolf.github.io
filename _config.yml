@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : La Conciergerie Girondine
 email      : your-email@example.com #this is also the email contact forms will go to
+favicon    : assets/img/favicon.ico
 # description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Chloë Roudot
 # logo:     #optional, defaults to site title
