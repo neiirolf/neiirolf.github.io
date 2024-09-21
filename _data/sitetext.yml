@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     section: contact
     list:
       - title: "+33 (0) 6 98 76 04 85"
-        icon: fas fa-phone #find more at https://fontawesome.com/icons
+        icon: fas fa-phone #find more at https://fontawesome.com/icons 
       - title: "contact@conciergerie-girondine.fr"
         icon: fas fa-envelope
 
